@@ -7,17 +7,17 @@
 <h2 align="center">Exemple rendu du programme</h2>
 <h3 align="center">Fractale Julia</h3>
 <p align="center">
-    <img width="70%" src="https://raw.githubusercontent.com/daugier/fract-ol/master/img/img3.png"/>
+    <img width="70%" src="img/img3.png"/>
     <br/>
-    <img width="70%" src="https://raw.githubusercontent.com/daugier/fract-ol/master/img/img4.png"/>
+    <img width="70%" src="img/img4.png"/>
     <br/>
-    <img width="70%" src="https://raw.githubusercontent.com/daugier/fract-ol/master/img/img5.png"/>
+    <img width="70%" src="img/img5.png"/>
 </p>
 <h3 align="center">Fractale Mandelbrot</h3>
 <p align="center">
-    <img width="70%" src="https://raw.githubusercontent.com/daugier/fract-ol/master/img/img2.png"/>
+    <img width="70%" src="img/img2.png"/>
 </p>
 <h3 align="center">Fractale Sierpinski</h3>
 <p align="center">
-     <img width="70%" src="https://raw.githubusercontent.com/daugier/fract-ol/master/img/img1.png"/>
+     <img width="70%" src="img/img1.png"/>
 </p>
